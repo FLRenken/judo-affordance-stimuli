@@ -1,7 +1,5 @@
 # Image Cropping & Background Processing Pipeline
 
-## Context
-
 This project is part of a research study investigating neural and behavioral plasticity during the acquisition of complex sensorimotor skills in combat sports, particularly judo. Expert athletes develop individualized and consistent technical-tactical patterns, or *fighting styles*, shaped by their own biomechanical characteristics and their interaction with an opponent.
 
 From an affordance-based perspective, combat can be understood as a continuous perception-action loop in which athletes rapidly select and execute actions based on their own physical capabilities and those of their opponent. The study investigates how action planning, body representation, and decision-making develop across stages of motor skill acquisition, and how these changes are supported by neural plasticity.
