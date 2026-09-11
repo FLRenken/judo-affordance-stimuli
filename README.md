@@ -1,4 +1,4 @@
-# Image Cropping & Background Processing Pipeline
+# Stimuli Processing Pipeline for Affordance Perception Study
 
 This project is part of a research study investigating neural and behavioral plasticity during the acquisition of complex sensorimotor skills in combat sports, particularly judo. Expert athletes develop individualized and consistent technical-tactical patterns, or *fighting styles*, shaped by their own biomechanical characteristics and their interaction with an opponent.
 
