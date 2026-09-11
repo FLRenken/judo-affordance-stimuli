@@ -2,7 +2,7 @@
 
 This script processes JPG images by:
 
-* removing the background using a neural network model
+* removing the background using [rembg](https://github.com/danielgatis/rembg)
 * scaling the person based on real-world height (from filename)
 * placing the person onto a standardized black 16:9 canvas
 * reconstructing and extending a floor/mat region
