@@ -1,6 +1,15 @@
 # Image Cropping & Background Processing Pipeline
 
-This script processes JPG images by:
+## Context
+
+This project is part of a research study investigating neural and behavioral plasticity during the acquisition of complex sensorimotor skills in combat sports, particularly judo. Expert athletes develop individualized and consistent technical-tactical patterns, or *fighting styles*, shaped by their own biomechanical characteristics and their interaction with an opponent.
+
+From an affordance-based perspective, combat can be understood as a continuous perception-action loop in which athletes rapidly select and execute actions based on their own physical capabilities and those of their opponent. The study investigates how action planning, body representation, and decision-making develop across stages of motor skill acquisition, and how these changes are supported by neural plasticity.
+
+As part of the experimental paradigm, stimulus images with varying heights are projected onto a wall, and the judo fighter's behavioral responses to these stimuli are recorded using motion snsors, EEG, and exe tracking. This repository contains code for generating and processing these visual stimuli. 
+For more information about the research project, see the [MPIB project page on sensorimotor skills](https://www.mpib-berlin.mpg.de/2318680/sensorimotor-skills).
+
+The script processes JPG images by:
 
 * removing the background using [rembg](https://github.com/danielgatis/rembg)
 * scaling the person based on real-world height (from filename)
