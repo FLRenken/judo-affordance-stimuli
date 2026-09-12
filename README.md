@@ -17,6 +17,7 @@ The script processes JPG images by:
 
 ---
 ![Alt text](crop.png)
+Used with permission of the depicted person.
 ---
 
 ## Installation
